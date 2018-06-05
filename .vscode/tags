@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+0001_initial.py	../clownfish/core/migrations/0001_initial.py	1;"	kind:file	line:1
+0002_auto_20180516_1749.py	../clownfish/core/migrations/0002_auto_20180516_1749.py	1;"	kind:file	line:1
+0003_auto_20180516_1750.py	../clownfish/core/migrations/0003_auto_20180516_1750.py	1;"	kind:file	line:1
+ALLOWED_HOSTS	../clownfish/clownfish/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../clownfish/clownfish/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:90
+BASE_DIR	../clownfish/clownfish/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+CoreConfig	../clownfish/core/apps.py	/^class CoreConfig(AppConfig):$/;"	kind:class	line:4
+DATABASES	../clownfish/clownfish/settings.py	/^DATABASES = {$/;"	kind:variable	line:79
+DEBUG	../clownfish/clownfish/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../clownfish/clownfish/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../clownfish/clownfish/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:109
+MIDDLEWARE	../clownfish/clownfish/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:45
+Member	../clownfish/core/models.py	/^class Member(models.Model):$/;"	kind:class	line:23
+Meta	../clownfish/core/api/serializers.py	/^    class Meta:$/;"	kind:class	line:6
+Migration	../clownfish/core/migrations/0001_initial.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:7
+Migration	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:6
+Migration	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:6
+Order	../clownfish/core/models.py	/^class Order(models.Model):$/;"	kind:class	line:9
+OrderSerializer	../clownfish/core/api/serializers.py	/^class OrderSerializer(ModelSerializer):$/;"	kind:class	line:5
+OrderViewSet	../clownfish/core/api/viewsets.py	/^class OrderViewSet(ModelViewSet):$/;"	kind:class	line:5
+Post	../clownfish/core/models.py	/^class Post(models.Model):$/;"	kind:class	line:46
+ROOT_URLCONF	../clownfish/clownfish/settings.py	/^ROOT_URLCONF = 'clownfish.urls'$/;"	kind:variable	line:55
+SECRET_KEY	../clownfish/clownfish/settings.py	/^SECRET_KEY = 'nf#gy&!!px0*stbr!mtl2j9k5mxmilw1m7jj-gv-(&4*-mi)x7'$/;"	kind:variable	line:23
+STATIC_URL	../clownfish/clownfish/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:123
+TEMPLATES	../clownfish/clownfish/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:57
+TIME_ZONE	../clownfish/clownfish/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:111
+Task	../clownfish/core/models.py	/^class Task(models.Model):$/;"	kind:class	line:34
+USE_I18N	../clownfish/clownfish/settings.py	/^USE_I18N = True$/;"	kind:variable	line:113
+USE_L10N	../clownfish/clownfish/settings.py	/^USE_L10N = True$/;"	kind:variable	line:115
+USE_TZ	../clownfish/clownfish/settings.py	/^USE_TZ = True$/;"	kind:variable	line:117
+WSGI_APPLICATION	../clownfish/clownfish/settings.py	/^WSGI_APPLICATION = 'clownfish.wsgi.application'$/;"	kind:variable	line:73
+__init__.py	../clownfish/clownfish/__init__.py	1;"	kind:file	line:1
+__init__.py	../clownfish/core/__init__.py	1;"	kind:file	line:1
+__init__.py	../clownfish/core/api/__init__.py	1;"	kind:file	line:1
+__init__.py	../clownfish/core/migrations/__init__.py	1;"	kind:file	line:1
+__str__	../clownfish/core/models.py	/^    def __str__(self):$/;"	kind:member	line:16
+__str__	../clownfish/core/models.py	/^    def __str__(self):$/;"	kind:member	line:30
+__str__	../clownfish/core/models.py	/^    def __str__(self):$/;"	kind:member	line:42
+active	../clownfish/core/models.py	/^    active = models.BooleanField()$/;"	kind:variable	line:14
+admin.py	../clownfish/core/admin.py	1;"	kind:file	line:1
+aggressive	../clownfish/core/models.py	/^    aggressive = models.BooleanField()$/;"	kind:variable	line:13
+application	../clownfish/clownfish/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../clownfish/core/apps.py	1;"	kind:file	line:1
+autopep8	../venv/bin/autopep8	1;"	kind:file	line:1
+birth_date	../clownfish/core/models.py	/^    birth_date = models.DateField()$/;"	kind:variable	line:26
+blood_type	../clownfish/core/models.py	/^    blood_type = models.IntegerField(blank=True, choices=opt_bloodtypes)$/;"	kind:variable	line:27
+date_creation	../clownfish/core/models.py	/^    date_creation = models.DateTimeField(auto_now_add=True)$/;"	kind:variable	line:50
+dependencies	../clownfish/core/migrations/0001_initial.py	/^    dependencies = [$/;"	kind:variable	line:11
+dependencies	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^    dependencies = [$/;"	kind:variable	line:8
+dependencies	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^    dependencies = [$/;"	kind:variable	line:8
+description	../clownfish/core/models.py	/^    description = models.TextField()$/;"	kind:variable	line:49
+description	../clownfish/core/models.py	/^    description = models.TextField(blank=True)$/;"	kind:variable	line:11
+django-admin.py	../venv/bin/django-admin.py	1;"	kind:file	line:1
+due_date	../clownfish/core/models.py	/^    due_date = models.DateField(blank=True, null=True)$/;"	kind:variable	line:37
+due_time	../clownfish/core/models.py	/^    due_time = models.TimeField(blank=True, null=True)$/;"	kind:variable	line:38
+epylint	../venv/bin/epylint	1;"	kind:file	line:1
+field	../clownfish/core/migrations/0001_initial.py	/^            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='core.Task'),$/;"	kind:variable	line:60
+field	../clownfish/core/migrations/0001_initial.py	/^            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.SET_NULL, to='core.Order'),$/;"	kind:variable	line:65
+field	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^            field=models.DateField(null=True),$/;"	kind:variable	line:16
+field	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^            field=models.TimeField(null=True),$/;"	kind:variable	line:21
+field	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^            field=models.DateField(blank=True, null=True),$/;"	kind:variable	line:16
+field	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^            field=models.TimeField(blank=True, null=True),$/;"	kind:variable	line:21
+fields	../clownfish/core/api/serializers.py	/^        fields = '__all__'/;"	kind:variable	line:9
+fields	../clownfish/core/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:17
+fields	../clownfish/core/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:27
+fields	../clownfish/core/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:38
+fields	../clownfish/core/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:47
+full_name	../clownfish/core/models.py	/^    full_name = models.CharField(max_length=300)$/;"	kind:variable	line:25
+initial	../clownfish/core/migrations/0001_initial.py	/^    initial = True$/;"	kind:variable	line:9
+isort	../venv/bin/isort	1;"	kind:file	line:1
+manage.py	../clownfish/manage.py	1;"	kind:file	line:1
+member	../clownfish/core/models.py	/^    member = models.ForeignKey(Member, null=True, on_delete=models.SET_NULL)$/;"	kind:variable	line:47
+model	../clownfish/core/api/serializers.py	/^        model = Order$/;"	kind:variable	line:7
+model_name	../clownfish/core/migrations/0001_initial.py	/^            model_name='member',$/;"	kind:variable	line:63
+model_name	../clownfish/core/migrations/0001_initial.py	/^            model_name='post',$/;"	kind:variable	line:58
+model_name	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^            model_name='task',$/;"	kind:variable	line:14
+model_name	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^            model_name='task',$/;"	kind:variable	line:19
+model_name	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^            model_name='task',$/;"	kind:variable	line:14
+model_name	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^            model_name='task',$/;"	kind:variable	line:19
+models.py	../clownfish/core/models.py	1;"	kind:file	line:1
+name	../clownfish/core/apps.py	/^    name = 'core'$/;"	kind:variable	line:5
+name	../clownfish/core/migrations/0001_initial.py	/^            name='Member',$/;"	kind:variable	line:16
+name	../clownfish/core/migrations/0001_initial.py	/^            name='Order',$/;"	kind:variable	line:26
+name	../clownfish/core/migrations/0001_initial.py	/^            name='Post',$/;"	kind:variable	line:37
+name	../clownfish/core/migrations/0001_initial.py	/^            name='Task',$/;"	kind:variable	line:46
+name	../clownfish/core/migrations/0001_initial.py	/^            name='order',$/;"	kind:variable	line:64
+name	../clownfish/core/migrations/0001_initial.py	/^            name='task',$/;"	kind:variable	line:59
+name	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^            name='due_date',$/;"	kind:variable	line:15
+name	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^            name='due_time',$/;"	kind:variable	line:20
+name	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^            name='due_date',$/;"	kind:variable	line:15
+name	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^            name='due_time',$/;"	kind:variable	line:20
+name	../clownfish/core/models.py	/^    name = models.CharField(max_length=250)$/;"	kind:variable	line:10
+notes	../clownfish/core/models.py	/^    notes = models.TextField(blank=True)$/;"	kind:variable	line:40
+operations	../clownfish/core/migrations/0001_initial.py	/^    operations = [$/;"	kind:variable	line:14
+operations	../clownfish/core/migrations/0002_auto_20180516_1749.py	/^    operations = [$/;"	kind:variable	line:12
+operations	../clownfish/core/migrations/0003_auto_20180516_1750.py	/^    operations = [$/;"	kind:variable	line:12
+opt_bloodtypes	../clownfish/core/models.py	/^opt_bloodtypes = ((1, 'A+'), (2, 'A-'), (3, 'B+'), (4, 'B-'),$/;"	kind:variable	line:3
+order	../clownfish/core/models.py	/^    order = models.ForeignKey(Order, null=True, on_delete=models.SET_NULL)$/;"	kind:variable	line:28
+pycodestyle	../venv/bin/pycodestyle	1;"	kind:file	line:1
+pylint	../venv/bin/pylint	1;"	kind:file	line:1
+pyreverse	../venv/bin/pyreverse	1;"	kind:file	line:1
+queryset	../clownfish/core/api/viewsets.py	/^    queryset = Order.objects.all()$/;"	kind:variable	line:9
+responsible_order	../clownfish/core/models.py	/^    responsible_order = models.ManyToManyField(Order)$/;"	kind:variable	line:36
+reward	../clownfish/core/models.py	/^    reward = models.TextField()$/;"	kind:variable	line:39
+router	../clownfish/clownfish/urls.py	/^router = routers.DefaultRouter()$/;"	kind:variable	line:22
+serializer_class	../clownfish/core/api/viewsets.py	/^    serializer_class = OrderSerializer/;"	kind:variable	line:10
+serializers.py	../clownfish/core/api/serializers.py	1;"	kind:file	line:1
+settings.py	../clownfish/clownfish/settings.py	1;"	kind:file	line:1
+specialty	../clownfish/core/models.py	/^    specialty = models.CharField(max_length=150)$/;"	kind:variable	line:12
+symilar	../venv/bin/symilar	1;"	kind:file	line:1
+task	../clownfish/core/models.py	/^    task = models.ForeignKey(Task, null=True, on_delete=models.CASCADE)$/;"	kind:variable	line:48
+tests.py	../clownfish/core/tests.py	1;"	kind:file	line:1
+title	../clownfish/core/models.py	/^    title = models.CharField(max_length=250)$/;"	kind:variable	line:35
+urlpatterns	../clownfish/clownfish/urls.py	/^urlpatterns = [$/;"	kind:variable	line:25
+urls.py	../clownfish/clownfish/urls.py	1;"	kind:file	line:1
+user_name	../clownfish/core/models.py	/^    user_name = models.CharField(max_length=100)$/;"	kind:variable	line:24
+views.py	../clownfish/core/views.py	1;"	kind:file	line:1
+viewsets.py	../clownfish/core/api/viewsets.py	1;"	kind:file	line:1
+wsgi.py	../clownfish/clownfish/wsgi.py	1;"	kind:file	line:1
